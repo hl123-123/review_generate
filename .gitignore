@@ -1,0 +1,10 @@
+config.py
+sava_data/pdf_data1/
+save_data1/
+.idea/
+__pycache__/
+caogao.py
+graph_base.py
+mutigraph_base.py
+更新策略.md
+font/
