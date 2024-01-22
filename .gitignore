@@ -1,5 +1,5 @@
-config.py
 save_data/pdf_data1/*
+config.py
 save_data1/
 .idea/
 __pycache__/
